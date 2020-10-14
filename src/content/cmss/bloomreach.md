@@ -1,6 +1,6 @@
 ---
 path: services/cmss/bloomreach
-title: Bloomreach
+title: Bloomreach2
 url: https://developers.bloomreach.com/
 logo: /images/bloomreach.png
 ---
